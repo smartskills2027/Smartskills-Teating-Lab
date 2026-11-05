@@ -1,0 +1,6 @@
+{
+  "name": "Smart Skills India - Edutech & Course Enrollment",
+  "description": "Smart Skills India vocational & IT edutech portal featuring mobile OTP verification, comprehensive course catalog with FAB (Features, Advantages, Benefits) frameworks, and career enrollment dispatch to career@smartskillsindia.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
